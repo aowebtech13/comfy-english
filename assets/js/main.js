@@ -1,5 +1,5 @@
 /*=====================================================
-Template Name   : Eduka
+Template Name   : Comfy-English
 Description     : School, College, University And Courses HTML5 Template
 Author          : LunarTemp
 Version         : 1.0
