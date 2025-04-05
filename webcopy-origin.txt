@@ -1,0 +1,1016 @@
+Uri: https://fonts.googleapis.com/css2?family=Yantramanav:wght@100;300;400;500;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap
+File Name: C:\Downloaded Web Sites\live.themewild.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/yantramanav/v13/flU-Rqu5zY00QEpyWJYWN5-QXeM.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\s\yantramanav\v13\flU-Rqu5zY00QEpyWJYWN5-QXeM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/yantramanav/v13/flU8Rqu5zY00QEpyWJYWN6f0.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\s\yantramanav\v13\flU8Rqu5zY00QEpyWJYWN6f0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/yantramanav/v13/flUhRqu5zY00QEpyWJYWN58AfsNZ.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\s\yantramanav\v13\flUhRqu5zY00QEpyWJYWN58AfsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/yantramanav/v13/flUhRqu5zY00QEpyWJYWN59IeMNZ.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\s\yantramanav\v13\flUhRqu5zY00QEpyWJYWN59IeMNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/yantramanav/v13/flUhRqu5zY00QEpyWJYWN59wesNZ.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\s\yantramanav\v13\flUhRqu5zY00QEpyWJYWN59wesNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/yantramanav/v13/flUhRqu5zY00QEpyWJYWN59Yf8NZ.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\s\yantramanav\v13\flUhRqu5zY00QEpyWJYWN59Yf8NZ.ttf
+Content Type: font/ttf
+
+Uri: https://live.themewild.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\live.themewild.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://live.themewild.com/eduka/404.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\404.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/about.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\about.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/academic-single.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\academic-single.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/academic.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\academic.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/alumni.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\alumni.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/application-form.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\application-form.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/assets/css/all-fontawesome.min.css
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\css\all-fontawesome.min.css
+Content Type: text/css
+
+Uri: https://live.themewild.com/eduka/assets/css/animate.min.css
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://live.themewild.com/eduka/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://live.themewild.com/eduka/assets/css/magnific-popup.min.css
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\css\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://live.themewild.com/eduka/assets/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://live.themewild.com/eduka/assets/css/style.css
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\css\style.css
+Content Type: text/css
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-sharp-light-300.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-sharp-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-sharp-light-300.woff2
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-sharp-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-sharp-regular-400.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-sharp-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-sharp-regular-400.woff2
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-sharp-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-sharp-solid-900.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-sharp-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-sharp-solid-900.woff2
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-sharp-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-sharp-thin-100.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-sharp-thin-100.ttf
+Content Type: font/ttf
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-sharp-thin-100.woff2
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-sharp-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-thin-100.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-thin-100.ttf
+Content Type: font/ttf
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-thin-100.woff2
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://live.themewild.com/eduka/assets/fonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://live.themewild.com/eduka/assets/img/about/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\about\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/about/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\about\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/about/03.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\about\03.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/activity/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\activity\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/activity/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\activity\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/activity/03.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\activity\03.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/activity/04.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\activity\04.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/activity/05.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\activity\05.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/alumni/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\alumni\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/alumni/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\alumni\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/apply/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\apply\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/athletic/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\athletic\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/athletic/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\athletic\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/athletic/03.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\athletic\03.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/blog/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\blog\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/blog/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\blog\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/blog/03.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\blog\03.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/blog/author.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\blog\author.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/blog/bs-1.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\blog\bs-1.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/blog/bs-2.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\blog\bs-2.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/blog/bs-3.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\blog\bs-3.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/blog/com-1.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\blog\com-1.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/blog/com-2.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\blog\com-2.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/blog/com-3.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\blog\com-3.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/blog/single.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\blog\single.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/breadcrumb/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\breadcrumb\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/campus-life/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\campus-life\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/campus-life/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\campus-life\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/campus-tour/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\campus-tour\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/choose/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\choose\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/club/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\club\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/club/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\club\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/club/03.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\club\03.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/club/04.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\club\04.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/club/05.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\club\05.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/club/06.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\club\06.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/club/single.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\club\single.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/coming-soon/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\coming-soon\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/contact/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\contact\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/counter/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\counter\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/course/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\course\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/course/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\course\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/course/03.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\course\03.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/course/04.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\course\04.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/course/05.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\course\05.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/course/06.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\course\06.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/course/single.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\course\single.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/course/teacher.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\course\teacher.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/cta/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\cta\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/department/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\department\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/department/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\department\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/department/single.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\department\single.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/enroll/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\enroll\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/error/01.png
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\error\01.png
+Content Type: image/png
+
+Uri: https://live.themewild.com/eduka/assets/img/event/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\event\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/event/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\event\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/event/03.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\event\03.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/event/04.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\event\04.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/event/05.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\event\05.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/event/06.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\event\06.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/event/author.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\event\author.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/event/single.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\event\single.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/facility/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\facility\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/facility/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\facility\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/facility/03.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\facility\03.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/facility/04.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\facility\04.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/facility/05.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\facility\05.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/facility/06.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\facility\06.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/facility/single.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\facility\single.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/footer/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\footer\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/fund/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\fund\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/fund/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\fund\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/fund/03.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\fund\03.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/gallery/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\gallery\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/gallery/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\gallery\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/gallery/03.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\gallery\03.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/gallery/04.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\gallery\04.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/gallery/05.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\gallery\05.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/gallery/06.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\gallery\06.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/health-care/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\health-care\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/health-care/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\health-care\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/health-care/03.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\health-care\03.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/acting.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\acting.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/art.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\art.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/award.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\award.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/course-material.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\course-material.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/course.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\course.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/data.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\data.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/exchange-idea.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\exchange-idea.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/global-education.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\global-education.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/graduation.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\graduation.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/health.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\health.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/human.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\human.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/information.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\information.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/law.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\law.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/library.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\library.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/money.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\money.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/monitor.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\monitor.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/online-course.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\online-course.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/open-book.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\open-book.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/scholarship-2.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\scholarship-2.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/scholarship-3.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\scholarship-3.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/scholarship.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\scholarship.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/teacher-2.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\teacher-2.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/icon/teacher.svg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\icon\teacher.svg
+Content Type: image/svg+xml
+
+Uri: https://live.themewild.com/eduka/assets/img/logo/favicon.png
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\logo\favicon.png
+Content Type: image/png
+
+Uri: https://live.themewild.com/eduka/assets/img/logo/logo-light.png
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\logo\logo-light.png
+Content Type: image/png
+
+Uri: https://live.themewild.com/eduka/assets/img/logo/logo.png
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\logo\logo.png
+Content Type: image/png
+
+Uri: https://live.themewild.com/eduka/assets/img/partner/01.png
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\partner\01.png
+Content Type: image/png
+
+Uri: https://live.themewild.com/eduka/assets/img/partner/02.png
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\partner\02.png
+Content Type: image/png
+
+Uri: https://live.themewild.com/eduka/assets/img/partner/03.png
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\partner\03.png
+Content Type: image/png
+
+Uri: https://live.themewild.com/eduka/assets/img/partner/04.png
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\partner\04.png
+Content Type: image/png
+
+Uri: https://live.themewild.com/eduka/assets/img/portfolio/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\portfolio\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/portfolio/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\portfolio\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/portfolio/03.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\portfolio\03.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/portfolio/04.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\portfolio\04.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/portfolio/05.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\portfolio\05.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/portfolio/06.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\portfolio\06.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/portfolio/single.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\portfolio\single.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/research/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\research\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/research/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\research\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/research/03.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\research\03.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/research/04.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\research\04.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/research/05.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\research\05.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/research/06.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\research\06.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/research/single.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\research\single.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/scholarship/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\scholarship\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/shape/01.png
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\shape\01.png
+Content Type: image/png
+
+Uri: https://live.themewild.com/eduka/assets/img/shape/03.png
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\shape\03.png
+Content Type: image/png
+
+Uri: https://live.themewild.com/eduka/assets/img/slider/slider-1.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\slider\slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/slider/slider-2.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\slider\slider-2.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/slider/slider-3.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\slider\slider-3.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/team/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\team\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/team/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\team\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/team/03.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\team\03.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/team/04.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\team\04.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/team/05.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\team\05.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/team/06.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\team\06.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/team/07.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\team\07.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/team/08.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\team\08.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/testimonial/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\testimonial\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/testimonial/02.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\testimonial\02.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/testimonial/03.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\testimonial\03.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/testimonial/04.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\testimonial\04.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/testimonial/05.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\testimonial\05.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/testimonial/bg.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\testimonial\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/img/video/01.jpg
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\img\video\01.jpg
+Content Type: image/jpeg
+
+Uri: https://live.themewild.com/eduka/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\js\bootstrap.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://live.themewild.com/eduka/assets/js/contact-form.js
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\js\contact-form.js
+Content Type: text/javascript
+
+Uri: https://live.themewild.com/eduka/assets/js/countdown.min.js
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\js\countdown.min.js
+Content Type: text/javascript
+
+Uri: https://live.themewild.com/eduka/assets/js/counter-up.js
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\js\counter-up.js
+Content Type: text/javascript
+
+Uri: https://live.themewild.com/eduka/assets/js/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\js\imagesloaded.pkgd.min.js
+Content Type: text/javascript
+
+Uri: https://live.themewild.com/eduka/assets/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\js\isotope.pkgd.min.js
+Content Type: text/javascript
+
+Uri: https://live.themewild.com/eduka/assets/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\js\jquery-3.7.1.min.js
+Content Type: text/javascript
+
+Uri: https://live.themewild.com/eduka/assets/js/jquery.appear.min.js
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\js\jquery.appear.min.js
+Content Type: text/javascript
+
+Uri: https://live.themewild.com/eduka/assets/js/jquery.easing.min.js
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\js\jquery.easing.min.js
+Content Type: text/javascript
+
+Uri: https://live.themewild.com/eduka/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\js\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://live.themewild.com/eduka/assets/js/main.js
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\js\main.js
+Content Type: text/javascript
+
+Uri: https://live.themewild.com/eduka/assets/js/modernizr.min.js
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\js\modernizr.min.js
+Content Type: text/javascript
+
+Uri: https://live.themewild.com/eduka/assets/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\js\owl.carousel.min.js
+Content Type: text/javascript
+
+Uri: https://live.themewild.com/eduka/assets/js/wow.min.js
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\assets\js\wow.min.js
+Content Type: text/javascript
+
+Uri: https://live.themewild.com/eduka/athletics.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\athletics.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/blog-single.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\blog-single.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/blog.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\blog.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/campus-life.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\campus-life.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/campus-tour.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\campus-tour.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/club-single.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\club-single.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/club.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\club.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/coming-soon.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\coming-soon.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/contact.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\contact.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/course-2.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\course-2.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/course-single-2.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\course-single-2.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/course-single.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\course-single.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/course.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\course.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/event-single.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\event-single.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/event.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\event.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/facility-single.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\facility-single.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/facility.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\facility.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/faculty-single.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\faculty-single.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/faculty.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\faculty.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/faq.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\faq.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/forgot-password.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\forgot-password.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/gallery.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\gallery.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/health-care.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\health-care.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/how-to-apply.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\how-to-apply.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/index-2.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\index-2.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/index-3.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\index-3.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/index.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\index.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/login.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\login.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/notice-board.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\notice-board.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/our-fund.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\our-fund.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/portfolio-single.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\portfolio-single.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/portfolio.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\portfolio.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/pricing.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\pricing.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/privacy.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\privacy.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/register.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\register.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/research-single.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\research-single.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/research.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\research.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/scholarship.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\scholarship.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/student-activities.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\student-activities.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/teacher-2.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\teacher-2.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/teacher-single.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\teacher-single.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/teacher.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\teacher.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/terms.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\terms.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/testimonial.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\testimonial.html
+Content Type: text/html
+
+Uri: https://live.themewild.com/eduka/tuition-fee.html
+File Name: C:\Downloaded Web Sites\live.themewild.com\eduka\tuition-fee.html
+Content Type: text/html
+
