@@ -1082,7 +1082,7 @@ label {
 
   .navbar .nav-item .dropdown-menu .dropdown-item:hover {
     background: transparent;
-    color: var(--theme-color2);
+    color: #80a9e0;
     padding-left: 32px;
   }
 
@@ -4339,7 +4339,7 @@ label {
   text-align: center;
   position: absolute;
   border-radius: 50%;
-  top: 50%;
+  top: 20%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -4487,7 +4487,9 @@ label {
 }
 
 
-
+.actives{
+  color: #80a9e0;
+}
 
 /*====================
 45. Faq css 
@@ -4630,11 +4632,11 @@ label {
 }
 
 .site-breadcrumb .breadcrumb-menu li a:hover {
-  color: var(--theme-color);
+  color: white;
 }
 
 .site-breadcrumb .breadcrumb-menu li.active {
-  color: var(--theme-color2);
+  color: #80a9e0;
 }
 
 @media (max-width: 991px) {
