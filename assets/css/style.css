@@ -30,7 +30,7 @@ Table of contents
 18. Play btn
 19. About css 
 20. Course css
-21. Course single css 
+21. Our Tutors css 
 22. Feature css 
 23. Portfolio css 
 24. Portfolio single
@@ -2136,7 +2136,7 @@ label {
 
 
 /*====================
-21. Course single css 
+21. Our Tutors css 
 ======================*/
 
 .course-details-img{
@@ -4111,6 +4111,8 @@ label {
 }
 
 .team-img img{
+  height: 300px;
+  width: 400px;
   border-radius: 50px 50px 50px 0;
 }
 
