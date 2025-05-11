@@ -3785,12 +3785,17 @@ label {
   margin-bottom: 30px;
   border-radius: 20px;
 }
-
+.theme-btns{
+  color: #fda31b;
+}
+.theme-btns:hover{
+color: #014DAB;
+}
 .widget .widget-title {
   padding-bottom: 10px;
   margin-bottom: 30px;
   position: relative;
-  font-size: 22px;
+  font-size: 18px;
   color:  var(--color-dark);
 }
 
